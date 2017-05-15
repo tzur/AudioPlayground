@@ -1,0 +1,12 @@
+Boost bass:
+
+freq 250: 24.
+
+Reduce bass:
+
+freq 250: -24.
+
+
+Treble reduce:
+
+freq 20000: - 40.
